@@ -1,26 +1,26 @@
 <resources>
     <string name="app_name">Microsoft Hyperlapse Mod</string>
     <string name="effect_name">Hyperlapse</string>
-    <string name="effect_share_text">#mshyperlapse #cyanogen</string>
+    <string name="effect_share_text" translatable="false">#mshyperlapse #cyanogen</string>
     <string name="apply_effect">Create Hyperlapse</string>
 
     <string name="message_ok">OK</string>
     <string name="message_cancel">Cancel</string>
 
-    <string name="start_initializing">Initializing…</string>
+    <string name="start_initializing">Initializing\u2026</string>
     <string name="start_initializationFailed">Initialization failed</string>
     <string name="start_recordNewVideo">Record new video</string>
     <string name="start_importExistingVideo">Import existing video</string>
     <string name="start_selectVideoToImport">Select a video to import</string>
 
     <string name="capture_title">Record</string>
-    <string name="capture_preparingCamera">Preparing camera…</string>
+    <string name="capture_preparingCamera">Preparing camera\u2026</string>
     <string name="capture_frontBack">Front/back</string>
     <string name="capture_record">Record</string>
     <string name="capture_stop">Stop</string>
     <string name="capture_discardTitle">Discard this recording?</string>
     <string name="capture_discardMessage">There are unsaved changes that will be lost.</string>
-    <string name="capture_preparingHyperlapse">Preparing Hyperlapse…</string>
+    <string name="capture_preparingHyperlapse">Preparing Hyperlapse\u2026</string>
     <string name="capture_error">Error</string>
     <string name="capture_interruptedTitle">Recording interrupted</string>
     <string name="capture_interruptedOutOfMemoryMessage">Stopped recording because memory is nearly full</string>
@@ -32,10 +32,9 @@
     <string name="trim_end">End</string>
     <string name="trim_ok">OK</string>
     <string name="trim_size_exceeded_title">Video too large</string>
-    <string name="trim_size_exceeded_message_minutes">This video is either too long or too large to be imported. The longest length for this video is %1$d minutes. </string>
+    <string name="trim_size_exceeded_message_minutes">This video is either too long or too large to be imported. The longest length for this video is %1$d minutes.</string>
 
     <string name="import_title">Import</string>
-
 
     <string name="preview_title">Preview</string>
     <string name="preview_save">Save</string>
@@ -43,25 +42,25 @@
 
     <string name="progress_discardTitle">Discard this video?</string>
     <string name="progress_discardMessage">There are unsaved changes that will be lost.</string>
-    <string name="progress_message_importing">preparing</string>
-    <string name="progress_message_exporting">saving</string>
+    <string name="progress_message_importing">Preparing</string>
+    <string name="progress_message_exporting">Saving</string>
 
-    <string name="remote_timer_text">00:00</string>
-    <string name="remote_text">\@</string>
-    <string name="speed_text">4x</string>
+    <string name="remote_timer_text" translatable="false">00:00</string>
+    <string name="remote_text" translatable="false">\@</string>
+    <string name="speed_text" translatable="false">4x</string>
 
     <!-- Message Dialogs -->
-    <string name="discard_confirmation_message">Discard hyperlapse? Your recording will be deleted and you will return to the camera. </string>
+    <string name="discard_confirmation_message">Discard hyperlapse? Your recording will be deleted and you will return to the camera.</string>
     <string name="discard_preexisting_message">Discard hyperlapse? Your original recording will not be deleted.</string>
-    <string name="discard_positive_button_text">discard</string>
-    <string name="discard_negative_button_text">@android:string/cancel</string>
+    <string name="discard_positive_button_text">Discard</string>
+    <string name="discard_negative_button_text" translatable="false">@android:string/cancel</string>
     <string name="trim_video_title">Trim video</string>
     <string name="trim_video_message">Imported videos can be trimmed before creating a new hyperlapse. Use the slider to set your video\'s new beginning and ending.</string>
     <string name="first_run_message_format">The &lt;a href=\"%1$s\"&gt;Microsoft Hyperlapse Terms&lt;/a&gt; and
         &lt;a href=\"%2$s\"&gt;Privacy Statement&lt;/a&gt; apply to the hyperlapse mode, which is provided by Microsoft.
         You can find this information in Settings under Mods if you\'d like to read it later.</string>
-    <string name="microsoft_hyperlapse_terms_url">http://go.microsoft.com/fwlink/?LinkId=733398</string>
-    <string name="microsoft_privacy_statement_url">http://go.microsoft.com/fwlink/?LinkId=521839</string>
+    <string name="microsoft_hyperlapse_terms_url" translatable="false">http://go.microsoft.com/fwlink/?LinkId=733398</string>
+    <string name="microsoft_privacy_statement_url" translatable="false">http://go.microsoft.com/fwlink/?LinkId=521839</string>
 
     <!-- Settings Activity -->
     <string name="microsoft_hyperlapse_terms_name">Microsoft Hyperlapse Terms</string>
@@ -76,8 +75,8 @@
     <string name="saving">Saving</string>
     <string name="importing">Importing</string>
 
-    <string name="os_variant_cyanogen_os">Cyanogen_OS</string>
-    <string name="os_variant_cyanogenmod_capps">CyanogenMod_CAPPS</string>
+    <string name="os_variant_cyanogen_os" translatable="false">Cyanogen_OS</string>
+    <string name="os_variant_cyanogenmod_capps" translatable="false">CyanogenMod_CAPPS</string>
 
     <!-- Hyperlapse error codes -->
     <string name="error_file_storage_full">File storage is full.</string>
@@ -88,7 +87,7 @@
     <string name="error_title">Error</string>
 
     <!-- Cancel import HOME warning text -->
-    <string name="cancel_dialog_text">Pressing the HOME button will cancel this import.</string>
+    <string name="cancel_dialog_text">Pressing the home button will cancel this import.</string>
     <!-- Cancel save HOME warning text -->
-    <string name="cancel_text_export">Pressing the HOME button will cancel this save.</string>
+    <string name="cancel_text_export">Pressing the home button will cancel this save.</string>
 </resources>
