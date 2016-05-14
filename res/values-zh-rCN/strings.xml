@@ -46,7 +46,7 @@
   <string name="trim_video_message">在创建新的 hyperlapse 之前可以剪辑已导入的视频。使用滑块来设置您的视频的新起始点和结束点。</string>
   <string name="first_run_message_format">&lt;a href=\"%1$s\"&gt;Microsoft Hyperlapse 条款&lt;/a&gt; 和
        &lt;a href=\"%2$s\"&gt;隐私声明&lt;/a&gt; 适用于 hyperlapse 模式，由微软提供。
-        如果您希望稍后阅读，您可以在 Mod 下的设置里找到此信息。</string>
+        如果您希望稍后阅读，您可以在模块下的设置里找到此信息。</string>
   <!-- Settings Activity -->
   <string name="microsoft_hyperlapse_terms_name">Microsoft Hyperlapse 条款</string>
   <string name="microsoft_privacy_statement_name">隐私声明</string>
