@@ -23,17 +23,46 @@
   <string name="capture_interruptedTitle">Innspilling avbrutt</string>
   <string name="capture_interruptedOutOfMemoryMessage">Stoppet opptaket fordi minnet er nesten fullt</string>
   <string name="capture_interruptedOutOfStorageMessage">Stoppet opptaket fordi lagring er nesten full</string>
+  <string name="capture_maxTimeWarningMessageWithMinutes">Gjør ferdig scenen din - hyperlapse stopper innspilling når det har gått %1$d minutter.</string>
   <string name="trim_title">Klipp</string>
   <string name="trim_start">Starten</string>
   <string name="trim_end">Slutten</string>
   <string name="trim_ok">OK</string>
   <string name="trim_size_exceeded_title">Videoen er for stor</string>
+  <string name="trim_size_exceeded_message_minutes">Denne videoen er enten for lang eller for stor til å bli importert. Den lengste lengden for denne videoen er %1$d minutter.</string>
+  <string name="import_title">Importer</string>
+  <string name="preview_title">Forhåndsvisning</string>
+  <string name="preview_save">Lagre</string>
+  <string name="preview_discard">Forkast</string>
+  <string name="progress_discardTitle">Forkaste denne videoen?</string>
+  <string name="progress_discardMessage">Det er ulagrede endringer som vil gå tapt.</string>
+  <string name="progress_message_importing">Forbereder</string>
+  <string name="progress_message_exporting">Lagrer</string>
   <!-- Message Dialogs -->
+  <string name="discard_confirmation_message">Forkaste hyperlapse? Opptaket vil bli slettet og kameraet vil bli åpnet igjen.</string>
+  <string name="discard_preexisting_message">Forkaste hyperlapse? Det opprinnelige opptaket ditt vil ikke bli slettet.</string>
+  <string name="discard_positive_button_text">Forkast</string>
+  <string name="trim_video_title">Klipp video</string>
+  <string name="trim_video_message">Importerte videoer kan klippes før du lager en ny hyperlapse. Bruk glidebryteren til å velge starten og slutten på videoen din.</string>
+  <string name="first_run_message_format">&lt;a href=\"%1$s\"&gt;Microsoft Hyperlapse Vilkår&lt;/a&gt; og
+&lt;a href=\"%2$s\"&gt;Personvernerklæring&lt;/&gt; gjelder hyperlapse modusen, som leveres av Microsoft.
+Du kan finne denne informasjonen i Innstillinger under Mods hvis du vil lese den senere.</string>
   <!-- Settings Activity -->
+  <string name="microsoft_hyperlapse_terms_name">Microsoft Hyperlapse Vilkår</string>
+  <string name="microsoft_privacy_statement_name">Personvernerklæring</string>
+  <string name="about_preference_category_name">Info</string>
+  <string name="one_x_prompt">Du kan lagre en stabilisert video uten timelapse, bare velg 1x hastighet</string>
   <string name="ok">OK</string>
   <string name="discard">FORKAST</string>
   <string name="cancel">AVBRYT</string>
+  <string name="saving">Lagrer</string>
+  <string name="importing">Importerer</string>
   <!-- Hyperlapse error codes -->
+  <string name="error_file_storage_full">Fillagring er full.</string>
+  <string name="error_initialization_failed">Uventet feil i initialiseringen.</string>
+  <string name="error_load_failed">Uventet feil innlastingen mislyktes (feil filnavn eller noe).</string>
+  <string name="error_unexpected_error">Uventet hyperlapse feil eller skadet fil.</string>
+  <string name="error_export_error">Uventet eksport feil (bare avlesing i arkiv system, systemfeil).</string>
   <string name="error_title">Feil</string>
   <!-- Cancel import HOME warning text -->
   <string name="cancel_dialog_text">Å trykke på Hjem-knappen vil kansellere denne importen.</string>
