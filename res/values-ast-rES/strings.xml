@@ -3,31 +3,55 @@
 <resources>
   <string name="app_name">Mod de Microsoft Hyperlapse</string>
   <string name="effect_name">Hyperlapse</string>
+  <string name="apply_effect">Crear Hyperlapse</string>
   <string name="message_ok">ACEUTAR</string>
   <string name="message_cancel">Encaboxar</string>
   <string name="start_initializing">Aniciando\u2026</string>
   <string name="start_initializationFailed">Fallu d\'aniciu</string>
+  <string name="start_recordNewVideo">Grabar videu nuevu</string>
+  <string name="start_importExistingVideo">Importar videu esistente</string>
+  <string name="start_selectVideoToImport">Esbillar un videu pa importar</string>
   <string name="capture_title">Grabar</string>
   <string name="capture_preparingCamera">Tresnando cámara\u2026</string>
+  <string name="capture_frontBack">Frontal/posterior</string>
+  <string name="capture_record">Grabar</string>
   <string name="capture_stop">Parar</string>
   <string name="capture_discardTitle">¿Descartar esta grabación?</string>
   <string name="capture_discardMessage">Hai camudancies ensin guardar que van perdese.</string>
   <string name="capture_preparingHyperlapse">Tresnando Hyperlapse\u2026</string>
   <string name="capture_error">Fallu</string>
+  <string name="capture_interruptedTitle">Interrumpióse la grabación</string>
   <string name="capture_interruptedOutOfMemoryMessage">Paróse la grabación porque la memoria ta cuasi enllena</string>
   <string name="capture_interruptedOutOfStorageMessage">Paróse la grabación porque l\'almacenamientu ta cuasi enllén</string>
+  <string name="capture_maxTimeWarningMessageWithMinutes">Conclúi la to escena - los hyperlapses detienen la grabación a los %1$d minutos.</string>
+  <string name="trim_title">Retayar</string>
+  <string name="trim_start">Aniciar</string>
+  <string name="trim_end">Fin</string>
   <string name="trim_ok">ACEUTAR</string>
   <string name="trim_size_exceeded_title">Videu perllargu</string>
+  <string name="trim_size_exceeded_message_minutes">Esti videu ye perllargu o pergrande pa importase. El llargor máximu pa esti videu ye de %1$d.</string>
   <string name="import_title">Importar</string>
+  <string name="preview_title">Previsualización</string>
+  <string name="preview_save">Guardar</string>
+  <string name="preview_discard">Descartar</string>
   <string name="progress_discardTitle">¿Descartar esti videu?</string>
   <string name="progress_discardMessage">Hai camudancies ensin guardar que van perdese.</string>
   <string name="progress_message_importing">Tresnando</string>
   <string name="progress_message_exporting">Guardando</string>
   <!-- Message Dialogs -->
+  <string name="discard_confirmation_message">¿Quies descartar el hyperlapse? La grabación va desaniciase y volverás a la cámara.</string>
+  <string name="discard_preexisting_message">¿Quies descartar el hyperlapse? La grabación orixinal nun va desaniciase.</string>
+  <string name="discard_positive_button_text">Descartar</string>
+  <string name="trim_video_title">Retayar videu</string>
+  <string name="trim_video_message">Los vídeos importaos puen retayase enantes de facer un hyperlapse nuevu. Usa la barra eslizante p\'afitar l\'entamu nuevu y el final del videu.</string>
+  <string name="first_run_message_format">Los &lt;a href=\"%1$s\"&gt;términos de Microsoft Hyperlapse &lt;/a&gt; y
+        &lt;a href=\"%2$s\"&gt;la política de privacidá&lt;/a&gt; aplíquense al mou hyperlapse, forníu por Microsoft.
+        Pues atopar esta información en Axustes>Mods si quies lleela dempués.</string>
   <!-- Settings Activity -->
   <string name="microsoft_hyperlapse_terms_name">Términos de Microsoft Hyperlapse</string>
   <string name="microsoft_privacy_statement_name">Declaración de privacidá</string>
   <string name="about_preference_category_name">Tocante a</string>
+  <string name="one_x_prompt">Pues guardar un videu estabilizáu ensin timelapse, namái esbilla la velocidá 1x</string>
   <string name="ok">ACEUTAR</string>
   <string name="discard">DESCARTAR</string>
   <string name="cancel">ENCABOXAR</string>
@@ -36,6 +60,7 @@
   <!-- Hyperlapse error codes -->
   <string name="error_file_storage_full">L\'almacenamientu de ficheros ta enllén.</string>
   <string name="error_initialization_failed">Fallu inesperáu nel aniciu.</string>
+  <string name="error_load_failed">Fallu inesperáu na carga (nome incorreutu del ficheru o un fallu asemeyáu).</string>
   <string name="error_unexpected_error">Fallu inesperáu d\'Hyperlapse o ficheru toyíu.</string>
   <string name="error_export_error">Fallu d\'esportación inesperáu (sistema de ficheros de namái llectura, fallu del sistema de ficheros).</string>
   <string name="error_title">Fallu</string>

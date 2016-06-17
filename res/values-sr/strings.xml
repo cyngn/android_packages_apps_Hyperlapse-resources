@@ -7,25 +7,55 @@
   <string name="message_ok">У реду</string>
   <string name="message_cancel">Отказано</string>
   <string name="start_initializing">Покретање\u2026</string>
+  <string name="start_initializationFailed">Покретање неуспешно</string>
+  <string name="start_recordNewVideo">Сними нови видео</string>
+  <string name="start_importExistingVideo">Увоз постојећег видеа</string>
+  <string name="start_selectVideoToImport">Изабери видео за увоз</string>
   <string name="capture_title">Сними</string>
   <string name="capture_preparingCamera">Припрема камере\u2026</string>
   <string name="capture_frontBack">Предња/задња</string>
   <string name="capture_record">Сними</string>
   <string name="capture_stop">Заустави</string>
+  <string name="capture_discardTitle">Да одбацим овај снимак?</string>
+  <string name="capture_discardMessage">Има несачуваних промена које ће бити изгубљене.</string>
   <string name="capture_preparingHyperlapse">Припрема Hyperlapse\u2026</string>
   <string name="capture_error">Грешка</string>
+  <string name="capture_interruptedTitle">Снимање прекинуто</string>
+  <string name="capture_interruptedOutOfMemoryMessage">Заустављено снимање јер је меморија скоро пуна</string>
+  <string name="trim_title">Скрати</string>
+  <string name="trim_start">Почни</string>
   <string name="trim_end">Крај</string>
   <string name="trim_ok">У реду</string>
+  <string name="trim_size_exceeded_title">Видео превелик</string>
   <string name="import_title">Увези</string>
   <string name="preview_title">Прикажи</string>
+  <string name="preview_save">СачуваЈ</string>
   <string name="preview_discard">Одбаци</string>
+  <string name="progress_discardTitle">Одбацити овај видео?</string>
+  <string name="progress_discardMessage">Има несачуваних промена које ће бити изгубљене.</string>
+  <string name="progress_message_importing">Припрема</string>
+  <string name="progress_message_exporting">Чување</string>
   <!-- Message Dialogs -->
+  <string name="discard_confirmation_message">Одбаци убрзано кретање? Снимање ће бити обрисано и вратићеш се у камеру.</string>
+  <string name="discard_preexisting_message">Одбаци убрзано кретање? Оргинални снимак неће бити обрисан.</string>
+  <string name="discard_positive_button_text">Одбаци</string>
+  <string name="trim_video_title">Сечење видеа</string>
+  <string name="trim_video_message">Увежени видео може бити исечен пре креирања убрзаног кретања. користи клизач да подесиш нови почетак и крај видеа.</string>
   <!-- Settings Activity -->
+  <string name="microsoft_hyperlapse_terms_name">Услови Microsoft Hyperlapse</string>
+  <string name="microsoft_privacy_statement_name">Изјава о приватности</string>
+  <string name="about_preference_category_name">O програму</string>
   <string name="ok">У реду</string>
+  <string name="discard">ОДБАЦИ</string>
   <string name="cancel">ОТКАЖИ</string>
+  <string name="saving">Уписујем</string>
   <string name="importing">Увоз</string>
   <!-- Hyperlapse error codes -->
+  <string name="error_file_storage_full">Складиште фајлова је пуно.</string>
+  <string name="error_initialization_failed">Неочекивана грешка приликом покретања.</string>
   <string name="error_title">Грешка</string>
   <!-- Cancel import HOME warning text -->
+  <string name="cancel_dialog_text">Притискање матичног дугмета ће отказати овај увоз.</string>
   <!-- Cancel save HOME warning text -->
+  <string name="cancel_text_export">Притискање матичног дугмета ће отказати чување.</string>
 </resources>
