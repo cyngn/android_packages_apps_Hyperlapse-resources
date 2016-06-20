@@ -22,11 +22,14 @@
   <string name="capture_error">Грешка</string>
   <string name="capture_interruptedTitle">Снимање прекинуто</string>
   <string name="capture_interruptedOutOfMemoryMessage">Заустављено снимање јер је меморија скоро пуна</string>
+  <string name="capture_interruptedOutOfStorageMessage">Заустављено снимање јер је складиште скоро пуно</string>
+  <string name="capture_maxTimeWarningMessageWithMinutes">Заврши своју сцену - hyperlapses зауставља снимање за %1$d минута.</string>
   <string name="trim_title">Скрати</string>
   <string name="trim_start">Почни</string>
   <string name="trim_end">Крај</string>
   <string name="trim_ok">У реду</string>
   <string name="trim_size_exceeded_title">Видео превелик</string>
+  <string name="trim_size_exceeded_message_minutes">Овај видео је или предуг или превелик да би био увезен. Највећа дужина за овај видео је %1$d минута.</string>
   <string name="import_title">Увези</string>
   <string name="preview_title">Прикажи</string>
   <string name="preview_save">СачуваЈ</string>
@@ -41,10 +44,14 @@
   <string name="discard_positive_button_text">Одбаци</string>
   <string name="trim_video_title">Сечење видеа</string>
   <string name="trim_video_message">Увежени видео може бити исечен пре креирања убрзаног кретања. користи клизач да подесиш нови почетак и крај видеа.</string>
+  <string name="first_run_message_format">&lt;a href=\"%1$s\"&gt;Microsoft Hyperlapse Услови&lt;/a&gt; и
+&lt;a href=\"%2$s\"&gt;Изјаве о приватности&lt;/a&gt; примењују се на hyperlapse режим, који је обезбедио Microsoft.
+Можеш наћи ове информације у подешавањима под режимима ако их желиш прочитати касније.</string>
   <!-- Settings Activity -->
   <string name="microsoft_hyperlapse_terms_name">Услови Microsoft Hyperlapse</string>
   <string name="microsoft_privacy_statement_name">Изјава о приватности</string>
   <string name="about_preference_category_name">O програму</string>
+  <string name="one_x_prompt">Можеш сачувати стабилизован видео без пролазног времена, само изабери брзину 1x</string>
   <string name="ok">У реду</string>
   <string name="discard">ОДБАЦИ</string>
   <string name="cancel">ОТКАЖИ</string>
@@ -53,6 +60,9 @@
   <!-- Hyperlapse error codes -->
   <string name="error_file_storage_full">Складиште фајлова је пуно.</string>
   <string name="error_initialization_failed">Неочекивана грешка приликом покретања.</string>
+  <string name="error_load_failed">Неочекивана грешка при учитавању (погрешно име или слично).</string>
+  <string name="error_unexpected_error">Неочекивана hyperlapse грешка или оштећен фајл.</string>
+  <string name="error_export_error">Неочекивана грешка извоза ( фајл систем само на читању, грешка фајл система).</string>
   <string name="error_title">Грешка</string>
   <!-- Cancel import HOME warning text -->
   <string name="cancel_dialog_text">Притискање матичног дугмета ће отказати овај увоз.</string>
