@@ -14,6 +14,7 @@
   <string name="capture_record">Opnemen</string>
   <string name="capture_stop">Stoppen</string>
   <string name="capture_discardTitle">Opname weggooien?</string>
+  <string name="capture_error">Fout</string>
   <string name="trim_ok">OK</string>
   <string name="import_title">Importeren</string>
   <string name="preview_title">Voorbeeld</string>

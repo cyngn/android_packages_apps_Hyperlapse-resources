@@ -46,7 +46,7 @@
   <string name="trim_video_message">Los vídeos importaos puen retayase enantes de facer un hyperlapse nuevu. Usa la barra eslizante p\'afitar l\'entamu nuevu y el final del videu.</string>
   <string name="first_run_message_format">Los &lt;a href=\"%1$s\"&gt;términos de Microsoft Hyperlapse &lt;/a&gt; y
         &lt;a href=\"%2$s\"&gt;la política de privacidá&lt;/a&gt; aplíquense al mou hyperlapse, forníu por Microsoft.
-        Pues atopar esta información en Axustes>Mods si quies lleela dempués.</string>
+        Pues atopar esta información en Axustes&gt;Mods si quies lleela dempués.</string>
   <!-- Settings Activity -->
   <string name="microsoft_hyperlapse_terms_name">Términos de Microsoft Hyperlapse</string>
   <string name="microsoft_privacy_statement_name">Declaración de privacidá</string>

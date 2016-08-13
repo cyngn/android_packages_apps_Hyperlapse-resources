@@ -46,7 +46,7 @@
   <string name="trim_video_message">Pred ustvarjanjem hyperlapsea lahko uvožene videoposnetke prirežete. Uporabite drsnik, da videoposnetku določite nov začetek in konec.</string>
   <string name="first_run_message_format">Za način hyperlapse, ki ga omogoča Microsoft, so uveljavljeni
         &lt;a href=\"%1$s\"&gt;Pogoji Microsoft Hyperlapse&lt;/a&gt; in &lt;a href=\"%2$s\"&gt;Izjava o zasebnosti&lt;/a&gt;.
-        Te podatke lahko najdete v Nastavitve -> Modifikacije, če bi jih kasneje radi prebrali.</string>
+        Te podatke lahko najdete v Nastavitve -&gt; Modifikacije, če bi jih kasneje radi prebrali.</string>
   <!-- Settings Activity -->
   <string name="microsoft_hyperlapse_terms_name">Pogoji Microsoft Hyperlapse</string>
   <string name="microsoft_privacy_statement_name">Izjava o zasebnosti</string>
