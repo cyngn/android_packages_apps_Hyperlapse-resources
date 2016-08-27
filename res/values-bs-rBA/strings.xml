@@ -3,7 +3,6 @@
 <resources>
   <!-- Message Dialogs -->
   <!-- Settings Activity -->
-  <string name="about_preference_category_name">Pri</string>
   <!-- Hyperlapse error codes -->
   <!-- Cancel import HOME warning text -->
   <!-- Cancel save HOME warning text -->

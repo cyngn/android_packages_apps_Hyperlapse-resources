@@ -16,6 +16,7 @@
   <string name="capture_discardTitle">Opname weggooien?</string>
   <string name="capture_error">Fout</string>
   <string name="trim_ok">OK</string>
+  <string name="trim_size_exceeded_title">Video te groot</string>
   <string name="import_title">Importeren</string>
   <string name="preview_title">Voorbeeld</string>
   <string name="preview_save">Opslaan</string>

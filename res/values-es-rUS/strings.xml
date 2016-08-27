@@ -46,7 +46,7 @@
   <string name="trim_video_message">Los videos importados pueden recortarse antes de crear un nuevo hyperlapse. Usa el control deslizante para establecer el nuevo comienzo y final de tu video.</string>
   <string name="first_run_message_format">Los &lt;a href=\"%1$s\"&gt;términos de Microsoft Hyperlapse &lt;/a&gt; y
 &lt;a href=\"%2$s\"&gt;la política de privacidad&lt;/a&gt; se aplican al modo hyperlapse, el cual es proporcionado por Microsoft.
-Puedes encontrar esta información en Ajustes>Mods si deseas leerla más tarde.</string>
+Puedes encontrar esta información en Ajustes&gt;Mods si deseas leerla más tarde.</string>
   <!-- Settings Activity -->
   <string name="microsoft_hyperlapse_terms_name">Términos de Microsoft Hyperlapse</string>
   <string name="microsoft_privacy_statement_name">Declaración de privacidad</string>
