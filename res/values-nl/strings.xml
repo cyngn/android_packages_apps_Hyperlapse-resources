@@ -15,11 +15,15 @@
   <string name="capture_stop">Stoppen</string>
   <string name="capture_discardTitle">Opname weggooien?</string>
   <string name="capture_error">Fout</string>
+  <string name="trim_title">Bijsnijden</string>
+  <string name="trim_start">Start</string>
+  <string name="trim_end">Einde</string>
   <string name="trim_ok">OK</string>
   <string name="trim_size_exceeded_title">Video te groot</string>
   <string name="import_title">Importeren</string>
   <string name="preview_title">Voorbeeld</string>
   <string name="preview_save">Opslaan</string>
+  <string name="preview_discard">Weggooien</string>
   <string name="progress_discardTitle">Video weggooien?</string>
   <string name="progress_message_importing">Voorbereiden</string>
   <string name="progress_message_exporting">Opslaan</string>
